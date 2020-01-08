@@ -11,8 +11,11 @@ Then this command was run:
 quasar create jims-vue-app
 ```
 And these add-ons were chosen:
+
 ◉ ESLint
+
 ◉ Vuex
+
 ◉ Axios
 
 Then just use the usual commands in `pacakge.json` to run the code!
